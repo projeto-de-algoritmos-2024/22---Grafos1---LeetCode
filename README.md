@@ -15,30 +15,18 @@
   
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
-
-  
+Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em uma plataforma de avaliação online, o LeetCode. Os exercícios escolhidos incluem dois de nível avançado (difíceis) e um de nível intermediário (médio).  
 
 ## Screenshots
 
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-  
-
 ## Instalação
 
 **Linguagem**: Typescript<br>
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-  
+- Conta no LeetCode
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-  
-
-## Outros
-
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para utilizar os códigos, basta acessar o repositório, copiar os arquivos fornecidos e executá-los diretamente na sua conta do LeetCode.
