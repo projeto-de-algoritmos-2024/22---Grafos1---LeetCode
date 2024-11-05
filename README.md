@@ -6,18 +6,18 @@
 
 ## Alunos
 
-| Matricula | Aluno  |
-|--|--|
-| Lucas Lopes Frazão | 211031771 |
+| Matricula                            | Aluno     |
+| ------------------------------------ | --------- |
+| Lucas Lopes Frazão                   | 211031771 |
 | Pedro Henrique Rodrigues de Carvalho | 211031459 |
 
-
-  
 ## Sobre
 
-Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em uma plataforma de avaliação online, o LeetCode. Os exercícios escolhidos incluem dois de nível avançado (difíceis) e um de nível intermediário (médio).  
+Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em uma plataforma de avaliação online, o LeetCode. Os exercícios escolhidos incluem dois de nível avançado (difíceis) e um de nível intermediário (médio).
 
 ## Screenshots
+
+- [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
 
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
