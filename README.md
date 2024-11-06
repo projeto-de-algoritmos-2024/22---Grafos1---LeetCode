@@ -19,6 +19,8 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 
 - [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
 
+- [Gravação da explicação do código (Youtube)](https://www.youtube.com/watch?v=AHLs6nFcxrk)
+
 ![399_LeetCode](./assets/399.png)
 
 - [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
