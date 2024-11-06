@@ -25,7 +25,9 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 
 - [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![753_1_LeetCode](./assets/753_1.jpeg)
+
+![753_2_LeetCode](./assets/753_2.jpeg)
 
 ## Instalação
 
