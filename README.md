@@ -19,6 +19,10 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 
 - [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
 
+![399_LeetCode](./assets/399.png)
+
+- [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação
