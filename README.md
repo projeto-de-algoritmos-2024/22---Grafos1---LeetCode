@@ -11,17 +11,27 @@
 | Lucas Lopes Frazão                   | 211031771 |
 | Pedro Henrique Rodrigues de Carvalho | 211031459 |
 
+## Questões
+
+| Matricula | Aluno   |
+| --------- | ------- |
+| 399       | Média   |
+| 753       | Difícil |
+| 924       | Difícil |
+
 ## Sobre
 
 Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em uma plataforma de avaliação online, o LeetCode. Os exercícios escolhidos incluem dois de nível avançado (difíceis) e um de nível intermediário (médio).
+
+## Demonstração
+
+- [Link da demonstração no youtube](https://youtu.be/bVQRIahkHo4)
 
 ## Screenshots
 
 ### 399. Evaluate Division
 
 - [Link no leetcode](https://leetcode.com/problems/evaluate-division/description/)
-
-- [Gravação da explicação do código (Youtube)](https://www.youtube.com/watch?v=AHLs6nFcxrk)
 
 ![399_LeetCode](./assets/399.png)
 
@@ -32,6 +42,12 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 ![753_1_LeetCode](./assets/753_1.jpeg)
 
 ![753_2_LeetCode](./assets/753_2.jpeg)
+
+### 924. Minimize Malware Spread
+
+- [Link no leetcode](https://leetcode.com/problems/minimize-malware-spread/description/)
+
+![924_LeetCode](./assets/924.png)
 
 ## Instalação
 
